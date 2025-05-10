@@ -6,11 +6,17 @@
 
 # Fonts
 
-[font-italic](fonts/italic.md)
+[font-italic](formating/italic.md)
 
-[font-bold](fonts/bold.md)
+[font-bold](formating/bold.md)
 
-[font-header](fonts/header.md)
+[font-header](formating/header.md)
+
+[font-inline](formating/inline.md)
+
+[font-strikethrough](formating/strikethrough.md)
+
+[font-bold-italic](formating/bold_italic)
 
 ---
 
