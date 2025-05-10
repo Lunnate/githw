@@ -16,7 +16,7 @@
 
 [font-strikethrough](formating/strikethrough.md)
 
-[font-bold-italic](formating/bold_italic)
+[font-bold-italic](formating/bold_italic.md)
 
 ---
 
